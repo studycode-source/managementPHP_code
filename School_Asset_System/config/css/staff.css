@@ -1,0 +1,38 @@
+h1 {
+    font-family: arial;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    background-color: navajowhite;
+	
+}
+
+.staff_section{
+	color: yellow;
+	background-color: lightblue;
+}
+
+p {
+	font-family: arial;
+}
+
+tr {
+	font-family: arial;
+	color: #000000;
+}
+
+body {
+         font-family:Arial, Helvetica, sans-serif;
+         font-size:14px;
+      }
+
+label {
+         font-weight:bold;
+         width:100px;
+         font-size:14px;
+      }
+
+.box {
+         border:#666666 solid 1px;
+      }
+
