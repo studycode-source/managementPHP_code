@@ -1,0 +1,7 @@
+C:\xampp\htdocs\School_Library\RunPHPScript\bin\Debug\RunPHPScript.exe.config
+C:\xampp\htdocs\School_Library\RunPHPScript\bin\Debug\RunPHPScript.exe
+C:\xampp\htdocs\School_Library\RunPHPScript\bin\Debug\RunPHPScript.pdb
+C:\xampp\htdocs\School_Library\RunPHPScript\obj\Debug\RunPHPScript.csproj.AssemblyReference.cache
+C:\xampp\htdocs\School_Library\RunPHPScript\obj\Debug\RunPHPScript.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\School_Library\RunPHPScript\obj\Debug\RunPHPScript.exe
+C:\xampp\htdocs\School_Library\RunPHPScript\obj\Debug\RunPHPScript.pdb
